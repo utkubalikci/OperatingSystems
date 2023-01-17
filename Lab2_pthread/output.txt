@@ -1,0 +1,15 @@
+Thread 1 reads 1. line. The value is 1.23 
+Thread 1 reads 2. line. The value is 2.66 
+Shared Resource: 3.89
+Thread 2 reads 3. line. The value is 3.45 
+Thread 2 reads 4. line. The value is 81.23 
+Shared Resource: 88.57
+Thread 3 reads 5. line. The value is 9.11 
+Thread 3 reads 6. line. The value is 3.33 
+Shared Resource: 101.01
+Thread 4 reads 7. line. The value is 7.78 
+Thread 4 reads 8. line. The value is 4.12 
+Shared Resource: 112.91
+Thread 5 reads 9. line. The value is 1.11 
+Thread 5 reads 10. line. The value is 2.22 
+Shared Resource: 116.24
